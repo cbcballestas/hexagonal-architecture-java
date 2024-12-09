@@ -8,6 +8,8 @@ Implementación de arquitectura hexagonal para aplicación: Shop - carrito de co
 
 ## Aspectos a tener en cuenta ⚠
 
+- En la carpeta `postman` se encuentran los endpoints a revisar ( Arquitectura Hexagonal.postman_collection.json)
+
 - La aplicación cuenta con dos modos de ejecución: `inmemory` y `mysql`. si desea ejecutar la aplicación con la persistencia
   orientada a base de datos, debe configurar el Launcher con el profile `mysql` usando el siguiente parámetro:
 
